@@ -10,7 +10,7 @@ app:
     # q: consider availability zones? 
 
     # min number of instances. can be 0 for scale to 0. default to 1.
-    min: 3
+    min: 4
     # max number of instances. defaults to 1 if min == 0, otherwise defaults to min
     # q: what's the overall limit?
     max: 6
